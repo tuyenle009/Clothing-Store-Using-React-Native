@@ -1,4 +1,4 @@
-<img width="267" height="578" alt="image" src="https://github.com/user-attachments/assets/f4d036ad-1630-4e57-907c-fd42f73e1c1c" /># Clothing Store - React Native Fashion App 👗
+# Clothing Store - React Native Fashion App 👗
 
 A modern e-commerce mobile application for women's fashion built with React Native and Expo. This app provides a seamless shopping experience with a beautiful UI and smooth navigation.
 
